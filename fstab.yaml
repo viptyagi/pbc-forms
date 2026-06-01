@@ -1,5 +1,9 @@
 mountpoints:
+<<<<<<< HEAD
   /:
     url: "https://author-p130360-e1272151.adobeaemcloud.com/bin/franklin.delivery/adobe-rnd/aem-boilerplate-xwalk/main"
     type: "markup"
     suffix: ".html"
+=======
+  /: https://drive.google.com/drive/folders/1Pa0hrWpdu261By9x4TfaMi80GJ3Dd3IW
+>>>>>>> 95ef546 (Added fstab.yaml file)
